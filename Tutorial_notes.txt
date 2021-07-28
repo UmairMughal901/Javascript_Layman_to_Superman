@@ -1,0 +1,80 @@
+############################################
+Video 1
+############################################
+1. Javascript ki value
+2. Client Side and Server Side explanation
+3. Javascript ES6 extention Installation on VS Code
+4. Live Server Insallation in VS Code
+5. Boiler plate (Emmet) type one word and get complete code of that snippt -- see more details for Emmet https://emmet.io/
+6. Use of browser console for Javascript
+7. 
+
+############################################
+Console Logs, Errors, Warnings | Video 2
+############################################
+1. How to open with live server using live server
+2. How to open Side by side windows on windows 10
+3. How to add external js file in Html file.
+<script src="./Codefiles/index.js"></script>
+</html>
+4. What is console of browser?
+It is tool for developer output or errors or warning. Recommended Chrome.
+5. How to use console.log()?
+console.log('I am in colsole') //string
+console.log(23+56) //integers
+console.log(56) //digits
+console.log(true) //boolen
+console.log([2,3,5,8]) //array
+console.log({Umair : "this", grade : "A"}) //Object
+console.table({Umair : "this", grade : "A"})  //log .table
+// console.warn('this is warning') //warning
+// console.clear() //clear the console results
+console.timeEnd("string") //check code run time
+console.assert(age>200,"This is not possible today");
+
+############################################
+Variables: let, const & var in JavaScript 
+Video 3
+############################################
+1. use back ticks to decalare String. It is good practice.
+2. Rule for creating jS Variables
+- cannot start with number
+- variable names are case sensitive
+- variable name can start with letter, numbers, _ , $
+
+- Good suggesition is dont use _ and $ in start 
+
+3. Jab se new javascript ai ha tab se var ka use kam ho gya ha . Let and const ka instamal bhtr hota ha kun k is se code clean nazar ata ha or purposeful bhe.
+
+4. const variable main value change nhe hoti.
+
+5. let varibale block based value hoti ha or with in block value { } sif clock k anadar wali show kare ky ga.
+
+6. when you change const 
+Uncaught TypeError: Assignment to constant variable.
+
+7. Jab bhe const varibale bana rahay han to phoran se value deni ho ge for declaration.
+
+8. //using const you can change array
+//but you can not re declare array in const
+const array1 = [12,2,5,1,5,36];
+// array1.push(225);
+console.log(array1);
+
+9. Most common programming case types
+1- camelCase - 
+2- kebab-case -
+3- snake_case 
+4- PascalCase
+
+############################################
+Data Types 
+Video 4
+############################################
+How many data types in JS?
+1. Primetive Data Types
+- Mole Data Type - memory alocation in Stack
+[string, numbers, Boolean, Null, Undefiend, Symbol]
+2. Reference Data Types
+Heap
+[Arrays, Object Literals, Functions, Dates]
