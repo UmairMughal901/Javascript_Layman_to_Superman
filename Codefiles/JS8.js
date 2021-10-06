@@ -1,6 +1,14 @@
 //IF else statement
 //Agar magar
+//https://www.youtube.com/watch?v=vaZpDYOuprA&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=8
 
+// = Single equal to is not going to use in comparison operator
+// == is Assignment operator it will be use.
+// === is used when both data type and value will be compare
+
+
+// And operator &&
+// Or operator ||
 
 const age = 65;
 const height = 562;
