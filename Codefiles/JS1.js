@@ -4,7 +4,7 @@ console.log(56) //digits
 console.log(true) //boolen
 console.log([2,3,5,8]) //array
 console.log({Umair : "this", grade : "A"}) //Object
-console.table({Umair : "this", grade : "A"})  //log .table
+console.table({Name : "Umair", grade : "A"})  //log .table
 // console.warn('this is warning') //warning
 // console.clear() //clear the console results
 console.timeEnd("string") //check code run time

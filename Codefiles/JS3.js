@@ -1,5 +1,5 @@
 // Primtive Data types
-
+// https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F48304498%2Fare-wrappers-of-a-primitive-type-primitives-types-too&psig=AOvVaw1RD3xKL6qvKV1V7RhXUXA_&ust=1634021065407000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiFqPvgwfMCFQAAAAAdAAAAABAR
 //String
 var name = `Umair Asghar`;
 console.log(typeof name, name);
